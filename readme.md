@@ -2,7 +2,7 @@
 
 # Awesome EMP
 
-![banner](assets/banner.png)
+![banner](assets/banner2.png)
 
 ## Show Case
 + [马克水印相机](assets/case1.png) EMP & AntDesign Project:[DEMO](https://marki-user.biusq.com)
