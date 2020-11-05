@@ -15,7 +15,7 @@ https://marki-user.biusq.com
 
 #### 效果图
 
-![马克水印相机](https://mgamevoice2.bs2dl.yy.com/37b9fcc55ad64eacbd34e234f759d549.png)
+![马克水印相机](https://github.com/efoxTeam/emp-Awesome/blob/master/assets/case1.png)
 
 ### 二. 公会签约中台项目
 
@@ -33,7 +33,7 @@ https://marki-user.biusq.com
 
 #### 效果图
 
-![手游语音公会签约后台](https://mgamevoice2.bs2dl.yy.com/a36c698b680845d1a3b10ecc915ae413.png)
+![手游语音公会签约后台](https://github.com/efoxTeam/emp-Awesome/blob/master/assets/case2.png)
 
 ### 三. cocos游戏平台
 
@@ -48,4 +48,4 @@ ME语音
 
 #### 效果图
 
-![大富翁游戏](https://mgamevoice2.bs2dl.yy.com/98250ccfb4944b85a9a7f4a623226e70.png)
+![大富翁游戏](https://github.com/efoxTeam/emp-Awesome/blob/master/assets/case3.png)
